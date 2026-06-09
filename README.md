@@ -144,7 +144,7 @@ https://youtube.com/SEU_LINK_AQUI
 Link do projeto:
 
 ```text
-https://github.com/SEU_USUARIO/mission-control-energy
+https://github.com/maziviero27/GS_SERS_Control_Energy.git
 ```
 
 ---
