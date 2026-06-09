@@ -65,11 +65,8 @@ O projeto foi desenvolvido para a disciplina **Soluções em Energias Renovávei
 mission-control-energy/
 │
 ├── README.md
-├── mission_control_energy.py
-└── assets/
-    ├── cadastro_dados.png
-    ├── alerta_critico.png
-    └── relatorio_final.png
+└── mission_control_energy.py
+
 ```
 
 ---
