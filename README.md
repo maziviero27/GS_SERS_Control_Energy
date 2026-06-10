@@ -134,7 +134,7 @@ A utilização de geração solar e gerenciamento inteligente de baterias permit
 Link do vídeo:
 
 ```text
-https://youtube.com/SEU_LINK_AQUI
+https://youtu.be/Qfa60Jr1SKA
 ```
 
 ---
